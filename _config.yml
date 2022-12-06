@@ -1,0 +1,8 @@
+paginate:            5
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+title:               "Orbital"
+description:         "open source creative framework for distributed computing"
+author:              "Orbital"
