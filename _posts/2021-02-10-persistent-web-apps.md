@@ -3,7 +3,7 @@ layout: post
 title:  Persistent Web Agents
 category: Philosophy
 tags: [PWA]
-image: 20211201_blox3_example.png
+image: 20211023_blox3_example.png
 date: Feb 10th 2021
 author: Anselm Hook
 ---
