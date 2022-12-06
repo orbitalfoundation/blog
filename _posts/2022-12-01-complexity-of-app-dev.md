@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Why XR?
+title:  The complexity of app development
 category: Philosophy
-tags: [xr]
+tags: [code]
 image: city-1.jpg
-date: 2022 Dec 1st 2021
+date: Dec 1st 2022
 ---
 
 # The complexity of app development
